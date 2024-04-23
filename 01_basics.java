@@ -14,6 +14,8 @@ class Main{
         System.out.println("welcome psa wale students");
         System.out.println("welcome psa wale students");
         System.out.println("welcome psa wale students");
+        System.out.println("how come ");
+        System.out.println("how come ");
         System.out.println("file changed by my friend");
     }
 }
