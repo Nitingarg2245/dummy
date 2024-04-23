@@ -3,5 +3,6 @@ class Main{
         int n = 5; 
         System.out.println("hello bro"+n);
         System.out.println("hello veere");
+        System.out.println("welcome psa wale students");
     }
 }
