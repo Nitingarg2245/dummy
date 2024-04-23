@@ -4,5 +4,15 @@ class Main{
         System.out.println("hello bro"+n);
         System.out.println("hello veere");
         System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
+        System.out.println("welcome psa wale students");
     }
 }
